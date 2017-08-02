@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-02T08:54:17.575Z</updated>
+  <updated>2017-08-02T14:44:28.951Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,14 +16,42 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我的第一篇博客</title>
+    <title>如何使用Hexo框架部署一个博客</title>
+    <link href="http://yoursite.com/2017/08/02/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Hexo%E6%A1%86%E6%9E%B6%E9%83%A8%E7%BD%B2%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2017/08/02/如何使用Hexo框架部署一个博客/</id>
+    <published>2017-08-02T13:32:41.000Z</published>
+    <updated>2017-08-02T14:44:28.951Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="什么是-Hexo"><a href="#什么是-Hexo" class="headerlink" title="什么是 Hexo"></a>什么是 Hexo</h3><p>Hexo 是一个快速、简洁且高效的博客框架。并且有很多靓丽酷炫的主题可以选。<br>使用它，你可以快速的搭建自己的博客网站。</p>
+<h3 id="软件安装"><a href="#软件安装" class="headerlink" title="软件安装"></a>软件安装</h3><p>使用前需要安装以下软件：</p>
+<ul>
+<li><a href="https://nodejs.org/en/" target="_blank" rel="external">Node.js</a></li>
+<li><a href="https://git-scm.com/" target="_blank" rel="external">Git</a></li>
+</ul>
+<p>本安装教程只针对windows用户，Mac 用户或 Linux 用户可自行百度。对于windows用户来说，建议使用安装程序进行安装。安装时，请勾选Add to PATH选项。</p>
+<p>安装完成之后，接下来只需要在 cmd 里使用 npm 即可完成 Hexo 的安装。npm 是 Node.js 下的包管理器，类似于 Python的 pip。<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm install -g hexo-cli</div></pre></td></tr></table></figure></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;什么是-Hexo&quot;&gt;&lt;a href=&quot;#什么是-Hexo&quot; class=&quot;headerlink&quot; title=&quot;什么是 Hexo&quot;&gt;&lt;/a&gt;什么是 Hexo&lt;/h3&gt;&lt;p&gt;Hexo 是一个快速、简洁且高效的博客框架。并且有很多靓丽酷炫的主题可以选。&lt;br&gt;使用它，
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客开通啦</title>
     <link href="http://yoursite.com/2017/04/02/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <id>http://yoursite.com/2017/04/02/我的第一篇博客/</id>
     <published>2017-04-02T06:24:47.000Z</published>
-    <updated>2017-08-02T08:54:17.575Z</updated>
+    <updated>2017-08-02T13:47:05.197Z</updated>
     
     <content type="html"><![CDATA[<h4 id="我的博客开工了，欢迎大家打赏，哈哈哈…"><a href="#我的博客开工了，欢迎大家打赏，哈哈哈…" class="headerlink" title="我的博客开工了，欢迎大家打赏，哈哈哈…"></a>我的博客开工了，欢迎大家打赏，哈哈哈…</h4><a id="more"></a>
-<p>点进来干嘛， 点进来又不打赏。<br>想打赏也没用， 我又没放二维码.</p>
+<h4 id="Hello-Bug"><a href="#Hello-Bug" class="headerlink" title="Hello Bug"></a>Hello Bug</h4><p>点进来干嘛， 点进来又不打赏。<br>想打赏也没用， 我又没放二维码.</p>
 ]]></content>
     
     <summary type="html">

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[如何使用Hexo框架部署一个博客]]></title>
+    <url>%2F2017%2F08%2F02%2F%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Hexo%E6%A1%86%E6%9E%B6%E9%83%A8%E7%BD%B2%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2%2F</url>
+    <content type="text"><![CDATA[什么是 HexoHexo 是一个快速、简洁且高效的博客框架。并且有很多靓丽酷炫的主题可以选。使用它，你可以快速的搭建自己的博客网站。 软件安装使用前需要安装以下软件： Node.js Git 本安装教程只针对windows用户，Mac 用户或 Linux 用户可自行百度。对于windows用户来说，建议使用安装程序进行安装。安装时，请勾选Add to PATH选项。 安装完成之后，接下来只需要在 cmd 里使用 npm 即可完成 Hexo 的安装。npm 是 Node.js 下的包管理器，类似于 Python的 pip。1$ npm install -g hexo-cli]]></content>
+      <tags>
+        <tag>blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[博客开通啦]]></title>
+    <url>%2F2017%2F04%2F02%2F%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%2F</url>
+    <content type="text"><![CDATA[我的博客开工了，欢迎大家打赏，哈哈哈… Hello Bug点进来干嘛， 点进来又不打赏。想打赏也没用， 我又没放二维码.]]></content>
+      <tags>
+        <tag>blog</tag>
+      </tags>
+  </entry>
+</search>
